@@ -1,7 +1,6 @@
 # 🪪 Visiting Card OCR & Voice Note Automation
 
-This project automates the extraction of contact details from business card images, transcribes voice note comments, and stores all information in an Excel file.  
-Ideal for events or clinics where you receive many business cards and want to log both card data and your personal notes.
+This project automates the extraction of contact details from business card images, transcribes voice note comments, and stores all information in an Excel file. Ideal for events or clinics where you receive many business cards and want to log both card data and your personal notes [Make sure not to Upload blur images].
 
 ---
 
