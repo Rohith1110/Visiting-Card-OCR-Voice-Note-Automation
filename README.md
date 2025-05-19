@@ -25,7 +25,7 @@ Ideal for events or clinics where you receive many business cards and want to lo
 
 ## 2️⃣ Install System Dependencies
 
-### macOS
+### mac OS
 
 ```bash
 brew install tesseract ffmpeg
